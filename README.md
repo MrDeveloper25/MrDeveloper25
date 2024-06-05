@@ -1,4 +1,4 @@
-# 💻 **Computer Science student in CUCEI, come on en lets check with me!**
+# 💻 **Computer Science student in CUCEI, come on and let's check with me!**
 
 ![Welcome Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/image.png)
 
