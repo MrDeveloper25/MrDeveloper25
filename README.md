@@ -1,7 +1,6 @@
 # 💻 **Welcome to my GitHub Repository!**
 
-![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!+%7C+Featuring+C%2B%2B+Code)
-![C++ Code](https://user-images.githubusercontent.com/57344957/121869196-cdceea00-cd12-11eb-85ae-3b9a5893c75b.png)
+![Welcome Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/image.png)
 
 ## 📜 **About Me**
 I am a programming enthusiast with experience in the following languages:
@@ -61,4 +60,4 @@ Brief description of the project, the languages used, and its purpose.
 *Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
 
 ![Footer Banner](https://via.placeholder.com/1200x200.png?text=Let's+Code+Together!+%7C+Join+Me+on+This+Journey)
-![Let's Code Together](https://user-images.githubusercontent.com/57344957/121869905-a88ea080-cd13-11eb-9a02-2e689d01c5e8.png)
+
