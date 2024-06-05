@@ -28,10 +28,10 @@ Descripción breve del proyecto, los lenguajes utilizados y el propósito del mi
 - **LinkedIn:** [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin)
 
 ## 🌟 **Mis estadísticas de GitHub**
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MrDeveloper25&show_icons=true&theme=radical)
 
 ## 🧠 **Lenguajes más usados**
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeveloper25&layout=compact&theme=radical)
 
 ---
 
