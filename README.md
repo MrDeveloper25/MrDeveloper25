@@ -1,10 +1,12 @@
 # 💻 **Welcome to my GitHub repository!**
 
+![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!)
+
 ## 📜 **About Me**
 I am a programming enthusiast with experience in the following languages:
-- **C**
-- **C++**
-- **Python**
+- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 🎓 **Certifications**
 I am proud to have obtained the following Oracle certifications:
@@ -24,15 +26,27 @@ Brief description of the project, the languages used, and its purpose.
 Brief description of the project, the languages used, and its purpose.
 
 ## 📫 **Contact Me**
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [arturo.gonzalez8019@alumnos.udg.mx](mailto:arturo.gonzalez8019@alumnos.udg.mx)
 - **LinkedIn:** [Said Gonzalez](https://www.linkedin.com/in/said-gonzalez-73a03a21a)
 
 ## 🌟 **My GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrDeveloper25&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrDeveloper25&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeveloper25&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-## 🧠 **Most Used Languages**
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeveloper25&layout=compact&theme=radical)
+## 📈 **GitHub Streak**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeveloper25&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrDeveloper25&theme=radical" alt="GitHub Trophies" />
+</div>
 
 ---
 
 *Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
+
+![Footer Banner](https://via.placeholder.com/1200x200.png?text=Let's+Code+Together!)
