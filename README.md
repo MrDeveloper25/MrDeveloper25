@@ -2,7 +2,7 @@
 
 ### 🖥️ **Interactive Code Snippet**
 
-```cpp
+<div allign="center">
 #include <iostream>
 using namespace std;
 
@@ -15,7 +15,7 @@ int main() {
     getchar();
     return 0;
 }
-
+</div>
 
 ## 📜 **About Me**
 Hello fellow coders! I'm a passionate programming enthusiast currently pursuing my degree at CUCEI. Here are some of the languages I wield like a pro:
