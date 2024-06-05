@@ -1,5 +1,20 @@
 # 💻 **Computer Science student in CUCEI, come on and let's check with me!**
 
+### 🖥️ **Interactive Code Snippet**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Arturo Said Gonzalez Mercado" << endl;
+    cout << "Computer Science Student CUCEI" << endl;
+    cout << "Interested in C++, C, CyberSecurity, Networks, Physics" << endl;
+
+    getchar();
+    getchar();
+    return 0;
+}
 
 ## 📜 **About Me**
 Hello fellow coders! I'm a passionate programming enthusiast currently pursuing my degree at CUCEI. Here are some of the languages I wield like a pro:
