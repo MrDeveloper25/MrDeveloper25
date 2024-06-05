@@ -1,38 +1,38 @@
-# 💻 **Bienvenidos a mi repositorio de GitHub!**
+# 💻 **Welcome to my GitHub repository!**
 
-## 📜 **Sobre mí**
-Soy un entusiasta de la programación con experiencia en los siguientes lenguajes:
+## 📜 **About Me**
+I am a programming enthusiast with experience in the following languages:
 - **C**
 - **C++**
 - **Python**
 
-## 🎓 **Certificaciones**
-Estoy orgulloso de haber obtenido las siguientes certificaciones de Oracle:
+## 🎓 **Certifications**
+I am proud to have obtained the following Oracle certifications:
 - ![Oracle Badge](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2023%20AI%20Certified%20Foundations%20Associate-red)
 - ![Oracle Badge](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2023%20Certified%20Foundations%20Associate-red)
 
-## 🔐 **Intereses**
-Una de mis mayores pasiones es la **ciberseguridad**. Me encanta aprender y explorar nuevas técnicas y herramientas para proteger la información y los sistemas.
+## 🔐 **Interests**
+One of my greatest passions is **cybersecurity**. I love learning and exploring new techniques and tools to protect information and systems.
 
-## 📂 **Proyectos Destacados**
-Aquí algunos de mis proyectos más destacados:
+## 📂 **Highlighted Projects**
+Here are some of my most notable projects:
 
-### 🖥️ **Proyecto 1: Nombre del Proyecto**
-Descripción breve del proyecto, los lenguajes utilizados y el propósito del mismo.
+### 🖥️ **Project 1: Project Name**
+Brief description of the project, the languages used, and its purpose.
 
-### 🖥️ **Proyecto 2: Nombre del Proyecto**
-Descripción breve del proyecto, los lenguajes utilizados y el propósito del mismo.
+### 🖥️ **Project 2: Project Name**
+Brief description of the project, the languages used, and its purpose.
 
-## 📫 **Contáctame**
-- **Email:** [tu.email@example.com](mailto:tu.email@example.com)
-- **LinkedIn:** [tu-perfil-linkedin](https://www.linkedin.com/in/tu-perfil-linkedin)
+## 📫 **Contact Me**
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Said Gonzalez](https://www.linkedin.com/in/said-gonzalez-73a03a21a)
 
-## 🌟 **Mis estadísticas de GitHub**
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MrDeveloper25&show_icons=true&theme=radical)
+## 🌟 **My GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrDeveloper25&show_icons=true&theme=radical)
 
-## 🧠 **Lenguajes más usados**
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeveloper25&layout=compact&theme=radical)
+## 🧠 **Most Used Languages**
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeveloper25&layout=compact&theme=radical)
 
 ---
 
-*¡Gracias por visitar mi perfil! No dudes en explorar mis repositorios y ponerse en contacto si tienes alguna pregunta o colaboración en mente.*
+*Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
