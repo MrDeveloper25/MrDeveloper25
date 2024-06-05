@@ -1,4 +1,4 @@
-# 💻 **Welcome to my GitHub Repository!**
+# 💻 **Computer Science student in CUCEI, come on en lets check with me!**
 
 ![Welcome Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/image.png)
 
