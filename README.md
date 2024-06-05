@@ -1,6 +1,5 @@
 # 💻 **Computer Science student in CUCEI, come on and let's check with me!**
 
-![Welcome Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/image.png)
 
 ## 📜 **About Me**
 Hello fellow coders! I'm a passionate programming enthusiast currently pursuing my degree at CUCEI. Here are some of the languages I wield like a pro:
