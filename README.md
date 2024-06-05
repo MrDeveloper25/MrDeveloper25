@@ -3,18 +3,18 @@
 ### 🖥️ **Interactive Code Snippet**
 
 <div allign="center">
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Arturo Said Gonzalez Mercado" << endl;
-    cout << "Computer Science Student CUCEI" << endl;
-    cout << "Interested in C++, C, CyberSecurity, Networks, Physics" << endl;
-
-    getchar();
-    getchar();
-    return 0;
-}
+    #include <iostream>
+    using namespace std;
+    
+    int main() {
+        cout << "Arturo Said Gonzalez Mercado" << endl;
+        cout << "Computer Science Student CUCEI" << endl;
+        cout << "Interested in C++, C, CyberSecurity, Networks, Physics" << endl;
+    
+        getchar();
+        getchar();
+        return 0;
+    }
 </div>
 
 ## 📜 **About Me**
