@@ -1,17 +1,21 @@
-# 💻 **Welcome to my GitHub repository!**
+# 💻 **Welcome to my GitHub Repository!**
 
 ![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!)
 
 ## 📜 **About Me**
 I am a programming enthusiast with experience in the following languages:
-- ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
 ## 🎓 **Certifications**
 I am proud to have obtained the following Oracle certifications:
-- ![Oracle Badge](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2023%20AI%20Certified%20Foundations%20Associate-red)
-- ![Oracle Badge](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2023%20Certified%20Foundations%20Associate-red)
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2023%20AI%20Certified%20Foundations%20Associate-red?style=for-the-badge" alt="Oracle 2023 AI Certified Foundations Associate">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-2023%20Certified%20Foundations%20Associate-red?style=for-the-badge" alt="Oracle 2023 Certified Foundations Associate">
+</div>
 
 ## 🔐 **Interests**
 One of my greatest passions is **cybersecurity**. I love learning and exploring new techniques and tools to protect information and systems.
@@ -26,8 +30,14 @@ Brief description of the project, the languages used, and its purpose.
 Brief description of the project, the languages used, and its purpose.
 
 ## 📫 **Contact Me**
-- **Email:** [arturo.gonzalez8019@alumnos.udg.mx](mailto:arturo.gonzalez8019@alumnos.udg.mx)
-- **LinkedIn:** [Said Gonzalez](https://www.linkedin.com/in/said-gonzalez-73a03a21a)
+<div align="center">
+  <a href="mailto:arturo.gonzalez8019@alumnos.udg.mx">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/said-gonzalez-73a03a21a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ## 🌟 **My GitHub Stats**
 <div align="center">
@@ -50,3 +60,4 @@ Brief description of the project, the languages used, and its purpose.
 *Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.*
 
 ![Footer Banner](https://via.placeholder.com/1200x200.png?text=Let's+Code+Together!)
+
