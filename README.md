@@ -23,11 +23,11 @@ One of my greatest passions is **cybersecurity**. I thrive on exploring new tech
 ## 📂 **Highlighted Projects**
 Here are some of my most notable projects:
 
-### 🖥️ **Project 1: Project Name**
-Brief description of the project, the languages used, and its purpose.
+### 🖥️ **Proxy in windows**
+This is a proxy designed in c++ for only SO windows
 
-### 🖥️ **Project 2: Project Name**
-Brief description of the project, the languages used, and its purpose.
+### 🖥️ **Scanner**
+This is a scanner designed in python that code give you open ports
 
 ## 📫 **Connect With Me**
 <div align="center">
