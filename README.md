@@ -1,12 +1,17 @@
-# 💻 **Computer Science student in CUCEI, come on and let's check with me!**
+# 💻 **Computer Science Student & Cybersecurity Enthusiast**
 
 ## 📜 **About Me**
-Hello fellow coders! I'm a passionate programming enthusiast currently pursuing my degree at CUCEI. Here are some of the languages I wield like a pro:
+Hello fellow coders! I'm a passionate programming enthusiast and Computer Science student at **CUCEI**. I love building robust applications, exploring the depths of cybersecurity, and turning complex problems into clean, efficient solutions.
+
+Here are some of the technologies and languages I work with:
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </div>
 
 ## 🎓 **Certifications**
@@ -18,16 +23,19 @@ I'm proud to hold these prestigious Oracle certifications:
 </div>
 
 ## 🔐 **Interests**
-One of my greatest passions is **cybersecurity**. I thrive on exploring new techniques and tools to safeguard information and systems.
+One of my greatest passions is **cybersecurity**. I thrive on exploring new techniques, ethical hacking, bug bounty hunting, and understanding network protocols to safeguard systems and information.
 
 ## 📂 **Highlighted Projects**
 Here are some of my most notable projects:
 
-### 🖥️ **Proxy in windows**
-This is a proxy designed in c++ for only SO windows
+### 🖥️ **Windows Proxy in C++**
+A custom proxy server designed specifically for Windows environments, focusing on low-level network traffic handling.
 
-### 🖥️ **Scanner**
-This is a scanner designed in python that code give you open ports
+### 🔍 **Port Scanner in Python**
+A high-performance network scanning utility built in Python to quickly identify open ports and service states.
+
+### 🌐 **Full-Stack Web Platforms**
+Development of modern web applications featuring secure authentication, payment gateway integrations, and responsive architectures using React and Next.js.
 
 ## 📫 **Connect With Me**
 <div align="center">
@@ -58,5 +66,3 @@ This is a scanner designed in python that code give you open ports
 ---
 
 *Thank you for dropping by! Let's collaborate and innovate together.*
-
-![Footer Banner](https://via.placeholder.com/1200x200.png?text=Let's+Code+Together!+%7C+Join+Me+on+This+Journey)
