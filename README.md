@@ -60,7 +60,7 @@ Development of modern web applications featuring secure authentication, payment 
 
 ## 🏆 **GitHub Trophies**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrDeveloper25&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrDeveloper25" alt="GitHub Trophies" />
 </div>
 
 ---
