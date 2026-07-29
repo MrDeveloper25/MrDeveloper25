@@ -48,20 +48,12 @@ Development of modern web applications featuring secure authentication, payment 
 </div>
 
 ## 🌟 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDeveloper25&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeveloper25&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrDeveloper25&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeveloper25&layout=compact&theme=radical&hide_border=true)
 
 ## 📈 **GitHub Streak**
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeveloper25&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrDeveloper25" alt="GitHub Trophies" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrDeveloper25&theme=radical&hide_border=true)
 
 ---
 
